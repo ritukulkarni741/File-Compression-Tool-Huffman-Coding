@@ -1,0 +1,10 @@
+
+# Compiled executables
+*.exe
+*.o
+
+# Generated compressed files
+*.huff
+
+# Restored test outputs
+test_files/restored.txt
