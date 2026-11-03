@@ -39,9 +39,6 @@ binary codes based on byte frequencies.
 - bit_io.c: Bit-level input/output
 - file_handler.c: Compression and decompression
 
-## Compilation
-
-gcc -std=c11 -Wall -Wextra -pedantic main.c huffman.c priority_queue.c bit_io.c file_handler.c -o huffman.exe
 
 ## Usage
 
